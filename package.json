@@ -1,0 +1,29 @@
+{
+  "name": "be.dvmax.billiardwaterdashballe",
+  "displayName": "Billiard Water Dash Balle",
+  "version": "0.0.1",
+  "unity": "6000.0.25f1",
+  "unityRelease": "",
+  "description": "",
+  "keywords": ["Script", "Tool"],
+  "dependencies": {},
+  "relatedPackages": {},
+  "samples": [
+    {
+      "displayName": "Demo Scene",
+      "description": "A sample scene that demonstrates the features of this package.",
+      "path": "Scene/Demo"
+    }
+  ],
+  "author": {
+    "name": "dvmax18",
+    "mail": ""
+  },
+  "repository": {
+    "type": "Git",
+    "url": "https://github.com/DVMAX18/billiardwaterdashballe.git",
+    "footprint": "",
+    "revision": ""
+  },
+  "category": "Script"
+}
