@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: LiquidRed
-  m_Shader: {fileID: 4800000, guid: ee6c755124a86a245bce6a2d15ea0a19, type: 3}
+  m_Shader: {fileID: 4800000, guid: e3ae64db6a9b8374da55107cf2093152, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
