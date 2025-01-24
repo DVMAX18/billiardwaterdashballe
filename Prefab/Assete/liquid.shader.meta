@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Prefab/liquid.shader.meta
 guid: ee6c755124a86a245bce6a2d15ea0a19
+=======
+guid: a2fcfd8c925717d409490baecfa99de4
+>>>>>>> 225c977473c002c6240428b384170c6308b446d2:Prefab/Assete/liquid.shader.meta
 timeCreated: 1526281289
 licenseType: Free
 ShaderImporter:
